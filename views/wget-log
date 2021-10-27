@@ -1,0 +1,16 @@
+--2021-10-26 14:21:08--  https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA
+Resolving docs.google.com (docs.google.com)... 74.125.200.100, 74.125.200.113, 74.125.200.139, ...
+Connecting to docs.google.com (docs.google.com)|74.125.200.100|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/uc?id%3D0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&followup=https://docs.google.com/uc?id%3D0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&ltmpl=homepage [following]
+--2021-10-26 14:21:09--  https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://docs.google.com/uc?id%3D0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&followup=https://docs.google.com/uc?id%3D0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&ltmpl=homepage
+Resolving accounts.google.com (accounts.google.com)... 74.125.200.84, 2404:6800:4003:c00::54
+Connecting to accounts.google.com (accounts.google.com)|74.125.200.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA’
+
+uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA          [<=>                                                                          ]       0  --.-KB/s               uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA          [ <=>                                                                         ]  89.25K  --.-KB/s    in 0.003s  
+
+2021-10-26 14:21:09 (28.2 MB/s) - ‘uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA’ saved [91397]
+
